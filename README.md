@@ -12,6 +12,8 @@
 
 <h4 align="left">I'm currently engaged Game AI Development with a passion for exploring AI/ML technologies like Stable Diffusion and Data Science Works. My ability to learn quickly and adapt, coupled with an unyielding determination to complete tasks, sets me apart in the fast-evolving tech industry.</h4>
 
+<h4 align="left">I use GitHub for both store my works and work with my friends easily.</h4>
+
 ###
 
 <h2 align="center">Programming Languages and Tools</h2>
