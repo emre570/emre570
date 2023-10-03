@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm Emre. I'm 21 years old and I live in Tokat, Türkiye.</h3>
+<p align="left">I'm Emre. I'm 21 years old and I live in Tokat, Türkiye.</p>
 
 ###
 
