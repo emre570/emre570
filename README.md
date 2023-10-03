@@ -6,17 +6,17 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<p2 align="center">About me</p2>
 
 ###
 
-<h4 align="left">I'm currently engaged Game AI Development with a passion for exploring AI/ML technologies like Stable Diffusion and Data Science Works. My ability to learn quickly and adapt, coupled with an unyielding determination to complete tasks, sets me apart in the fast-evolving tech industry.</h4>
+<p4 align="left">I'm currently engaged Game AI Development with a passion for exploring AI/ML technologies like Stable Diffusion and Data Science Works. My ability to learn quickly and adapt, coupled with an unyielding determination to complete tasks, sets me apart in the fast-evolving tech industry.</p4>
 
-<h4 align="left">I use GitHub for both store my works and work with my friends easily.</h4>
+<p4 align="left">I use GitHub for both store my works and work with my friends easily.</p4>
 
 ###
 
-<h2 align="center">Programming Languages and Tools</h2>
+<p2 align="center">Programming Languages and Tools</p2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="center">Stats</h2>
+<p2 align="center">Stats</p2>
 
 ###
 
