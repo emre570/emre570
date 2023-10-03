@@ -1,4 +1,4 @@
-<p1 align="center">Hello</p1>
+<h1 align="center">Hello</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p2 align="center">About me</p2>
+<h2 align="center">About me</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p2 align="center">Programming Languages and Tools</p2>
+<h2 align="center">Programming Languages and Tools</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<p2 align="center">Stats</p2>
+<h2 align="center">Stats</h2>
 
 ###
 
