@@ -10,7 +10,7 @@
 
 ###
 
-<p4 align="left">I'm currently engaged Game AI Development with a passion for exploring AI/ML technologies like Stable Diffusion and Data Science Works. My ability to learn quickly and adapt, coupled with an unyielding determination to complete tasks, sets me apart in the fast-evolving tech industry.</p4>
+<p4 align="left">I'm currently engaged with Deep Learningtechnologies like Stable Diffusion and Computer Vision, and Natural Language Processing. My ability to learn quickly and adapt, coupled with an unyielding determination to complete tasks, sets me apart in the fast-evolving tech industry.</p4>
 
 <p4 align="left">I use GitHub for both store my works and work with my friends easily.</p4>
 
