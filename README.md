@@ -38,6 +38,8 @@ I have theoretical knowledge on machine learning and deep learning and I am look
   <img width="12" />
   <img href="https://www.tensorflow.org/?hl=tr" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="tensorflow logo"  />
   <img width="12" />
+  <img href="https://pytorch.org/" src="https://skillicons.dev/icons?i=pytorch" height="45" alt="pytorch logo"  />
+  <img width="12" />
   <img href="https://www.sqlite.org/index.html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="sqlite logo"  />
   <img href="https://developer.nvidia.com/cuda-toolkit" src="https://repository-images.githubusercontent.com/298657618/9833ec91-3c93-41d8-a2cd-77828ae7adcb" height="45" alt="nvidia cuda logo"  />
   <img src="https://seeklogo.com/images/N/nvidia-rtx-logo-F282CD4FFB-seeklogo.com.png" height="45" alt="nvidia rtx logo"  />
