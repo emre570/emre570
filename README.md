@@ -10,7 +10,7 @@
 
 ###
 
-<p4 align="left">I am a senior at the university and I aim to pursue a career in Deep Learning. I am particularly interested in NLP (Natural Language Processing) and LLM (Large Language Models). I am currently working on medical image processing using CNN (Convolutional Neural Networks) under the guidance of my academic advisor. I have been focusing on machine learning and deep learning with Python for about 1.5 years.
+<p4 align="left">I am a senior at the university and I aim to pursue a career in Deep Learning. I am particularly interested in NLP (Natural Language Processing) and LLM (Large Language Models). I am currently working on medical image processing using CNN (Convolutional Neural Networks) under the guidance of my professor. I have been focusing on machine learning and deep learning with Python for about 1.5 years.
 
 I have theoretical knowledge on machine learning and deep learning and I am looking for the opportunity to apply this knowledge in practical projects. In recent years, rapid developments in the field of artificial intelligence, especially innovative applications such as ChatGPT, have further increased my interest in this field.</p4>
 
