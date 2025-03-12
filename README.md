@@ -1,29 +1,23 @@
-<h1 align="center">Hello</h1>
+Every problem has a solution; the important thing is to ask the right questions, to learn continuously and to find the most efficient way to break the problem down into its component parts. Don't waste time over-planning, just start somewhere - the rest will come.
 
-###
+# 👋 Hi, I'm Emre! 
 
-<p align="left">I'm Emre. I'm 22 years old and I live in Tokat, Türkiye.</p>
+## About Me
+I am a Computer Engineer working as an AI Engineer at DeepHist. My focus is on developing AI-driven solutions, particularly in **computer vision, deep learning, and language models**.  
 
-###
+## What I Do
+- Developing **AI-powered automation** systems.  
+- Working with **computer vision** and object detection models.  
+- Creating modular libraries for **model training and inference**.  
 
-<h2 align="center">About me</h2>
+## Other Interests
+- Training and fine-tuning **LLMs** for different applications.  
+- Enhancing **model efficiency** for production environments.  
+- 100 Days of CUDA Challenge – **Learning & implementing CUDA daily.**  
+- Expanding **dataset augmentation** techniques.
+- Contributing to open-source AI projects
 
-###
+## Connect
+https://linktr.ee/emre570
 
-<p4 align="left">I am a fresh graduate and I aim to pursue a career in Deep Learning. I am particularly interested in NLP (Natural Language Processing) and LLM (Large Language Models). I worked on medical image processing using CNN (Convolutional Neural Networks) under the guidance of my academic advisor. I have been focusing on machine learning and deep learning with Python for about 1.5 years.
-
-I have theoretical knowledge on machine learning and deep learning and I am looking for the opportunity to apply this knowledge in practical projects. In recent years, rapid developments in the field of artificial intelligence, especially innovative applications such as ChatGPT, have further increased my interest in this field.</p4>
-
-<p4 align="left">I use GitHub for both store my works and work easily.</p4>
-
-###
-
-<h2 align="center">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emre570&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+---
