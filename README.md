@@ -1,4 +1,4 @@
-*Every problem has a solution; the important thing is to ask the right questions, to learn continuously and to find the most efficient way to break the problem down into its component parts. Don't waste time over-planning, just start somewhere - the rest will come.
+*Every problem has a solution; the important thing is to ask the right questions, to learn continuously and to find the most efficient way to break the problem down into its component parts. Don't waste time over-planning, just start somewhere - the rest will come.*
 
 # 👋 Hi, I'm Emre! 
 
@@ -19,5 +19,3 @@ I am a Computer Engineer working as an AI Engineer at DeepHist. My focus is on d
 
 ## Connect
 https://linktr.ee/emre570
-
----
