@@ -13,9 +13,12 @@ I am a Computer Engineer working as an AI Engineer at DeepHist. My focus is on d
 ## Other Interests
 - Training and fine-tuning **LLMs** for different applications.  
 - Enhancing **model efficiency** for production environments.  
-- 100 Days of CUDA Challenge – **Learning & implementing CUDA daily.**  
+- 100 Days of CUDA Challenge – **Learning & implementing CUDA.**  
 - Expanding **dataset augmentation** techniques.
 - Contributing to open-source AI projects
+
+## My Blog
+https://emre570.bearblog.dev/
 
 ## Connect
 https://linktr.ee/emre570
