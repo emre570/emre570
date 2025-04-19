@@ -3,7 +3,11 @@
 # 👋 Hi, I'm Emre! 
 
 ## About Me
-I am a Computer Engineer working as an AI Engineer at DeepHist. My focus is on developing AI-driven solutions, particularly in **computer vision, deep learning, and language models**.  
+AI Engineer | CUDA-Crafter | LLM Builder
+
+I build intelligent systems from the ground up — whether it's building high-performance CUDA kernels, optimizing YOLO-based vision models, or deploying LLM-powered assistants.
+
+I thrive where complexity meets clarity: turning prototypes into products, and abstract ideas into code that works. My current focus? Scaling AI-native tools for real-world automation and emotional intelligence — from smart factories to therapeutic AI companions.
 
 ## What I Do
 - Developing **AI-powered automation** systems.  
@@ -13,8 +17,7 @@ I am a Computer Engineer working as an AI Engineer at DeepHist. My focus is on d
 ## Other Interests
 - Training and fine-tuning **LLMs** for different applications.  
 - Enhancing **model efficiency** for production environments.  
-- 100 Days of CUDA Challenge – **Learning & implementing CUDA.**  
-- Expanding **dataset augmentation** techniques.
+- 100 Days of CUDA Challenge – **Learning & implementing CUDA.**
 - Contributing to open-source AI projects
 
 ## My Blog
