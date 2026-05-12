@@ -10,8 +10,8 @@ infrastructure that makes them ship.
 - contributed Consumer Blackwell (SM120/SM121) support to 
   [Dao-AILab/quack](https://github.com/Dao-AILab/quack) — RMSNorm, 
   softmax, cross-entropy kernels in CuTe-DSL (merged)
-- open PR on [NVIDIA/CUTLASS](https://github.com/NVIDIA/cutlass): 
-  Snake activation as an EVT op (2.1x median, 8.5x peak on Spark-TTS)
+- merged PR on [NVIDIA/CUTLASS](https://github.com/NVIDIA/cutlass): 
+  Snake activation as a SM90 EVT op
 
 focus: GPU kernel engineering, inference latency, and production 
 deep learning systems.
