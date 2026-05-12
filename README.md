@@ -6,7 +6,7 @@ infrastructure that makes them ship.
 
 **recent work:**
 - shipped 430ms → 50ms STT latency in production (8.6x) via FP8 
-  quantization, fused kernels, and CUTLASS EVT epilogues, [see the blog]([https://github.com/Dao-AILab/quack](https://emre570.bearblog.dev/stt-blog-8x/)) 
+  quantization, fused kernels, and CUTLASS EVT epilogues, [see the blog](https://emre570.bearblog.dev/stt-blog-8x/) 
 - contributed Consumer Blackwell (SM120/SM121) support to 
   [Dao-AILab/quack](https://github.com/Dao-AILab/quack) — RMSNorm, 
   softmax, cross-entropy kernels in CuTe-DSL (merged)
